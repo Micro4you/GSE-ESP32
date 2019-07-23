@@ -1,6 +1,6 @@
 # GSE-ESP32
 
-**For Test NB-IoT (ESP32 Hardware Serial No 2)**
+****For Test NB-IoT (ESP32 Hardware Serial No 2)****
 
 PIN 16 (RXD2 ESP32) - BC95 (TXD) Green
 
