@@ -23,3 +23,7 @@ PIN 2 (IO2 ESP32)   - L86 (RES) Yellow
 **3. 20 PIN (INPUT & OUTPUT)**
 
 ![IMG_20190806_150808_800](https://user-images.githubusercontent.com/536179/62530453-bab55180-b86a-11e9-9e35-6b2e5804b910.png)
+
+**4. 2 X 5 PIN description**
+
+![IMG_20190806_165701_800](https://user-images.githubusercontent.com/536179/62531420-9e1a1900-b86c-11e9-8ff9-df14d98405fc.png)
